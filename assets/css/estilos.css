@@ -12,6 +12,14 @@ body {
   ;
 }
 
+/* lenguajes */
+#lenguajes img{
+  width: 50px;
+  height: 70px;
+  
+  ;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
