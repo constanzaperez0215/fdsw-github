@@ -21,12 +21,15 @@ body {
 }
 
 /* Mis trabajos */
-
+#Mis-trabajos{
+  background-color: rgb(64, 75, 82);
+}
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
 
 /* Contacto */
